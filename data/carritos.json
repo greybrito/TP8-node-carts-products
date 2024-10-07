@@ -1,0 +1,84 @@
+[
+  {
+    "products": [
+      {
+        "id": 1,
+        "title": "blabla",
+        "description": "ble",
+        "code": 10,
+        "price": 1000,
+        "status": true,
+        "stock": 100,
+        "category": "libros",
+        "thumbnails": [],
+        "quantity": 2
+      },
+      {
+        "id": 2,
+        "title": "blabla",
+        "description": "ble",
+        "code": 10,
+        "price": 1000,
+        "status": true,
+        "stock": 100,
+        "category": "libros",
+        "thumbnails": [],
+        "quantity": 10
+      },
+      {
+        "id": 3,
+        "title": "blabla",
+        "description": "ble",
+        "code": 10,
+        "price": 1000,
+        "status": true,
+        "stock": 100,
+        "category": "libros",
+        "thumbnails": [],
+        "quantity": 9
+      }
+    ],
+    "id": 1
+  },
+  {
+    "products": [
+      {
+        "id": 1,
+        "title": "blabla",
+        "description": "ble",
+        "code": 10,
+        "price": 1000,
+        "status": true,
+        "stock": 100,
+        "category": "libros",
+        "thumbnails": [],
+        "quantity": 2
+      },
+      {
+        "id": 2,
+        "title": "blabla",
+        "description": "ble",
+        "code": 10,
+        "price": 1000,
+        "status": true,
+        "stock": 100,
+        "category": "libros",
+        "thumbnails": [],
+        "quantity": 10
+      },
+      {
+        "id": 3,
+        "title": "blabla",
+        "description": "ble",
+        "code": 10,
+        "price": 1000,
+        "status": true,
+        "stock": 100,
+        "category": "libros",
+        "thumbnails": [],
+        "quantity": 6
+      }
+    ],
+    "id": 2
+  }
+]

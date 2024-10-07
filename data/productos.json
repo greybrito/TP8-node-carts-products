@@ -1,0 +1,24 @@
+[
+  {
+    "title": "blablaxxxx4",
+    "description": "ble",
+    "code": 10,
+    "price": 1000,
+    "status": true,
+    "stock": 100,
+    "category": "libros",
+    "thumbnails": [],
+    "id": 1
+  },
+  {
+    "title": "blablaxxxx22",
+    "description": "ble",
+    "code": 10,
+    "price": 1000,
+    "status": true,
+    "stock": 100,
+    "category": "libros",
+    "thumbnails": [],
+    "id": 2
+  }
+]
